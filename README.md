@@ -28,7 +28,7 @@
 ---
 ### PERT/CPM圖
 
-
+![PERT](PERT圖.jpg "PERT圖")
 
 ```graphviz
 digraph {
