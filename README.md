@@ -25,6 +25,25 @@
 ---
 ### 甘特圖
 
+```mermaid
+gantt
+    title A Gantt Diagram
+    section 研擬計畫、任務分配
+    7:a1, 2022-10-01, 7d
+    section 前端開發
+    25:a2,after a1  , 25d
+    section 資料庫建立
+    20:a3,after a2  , 20d
+    section 後端開發
+    30:a4,after a3  , 30d 
+    section 系統測試與整合
+    5:a5,after a4  , 5d
+    section 系統修改
+    10:a6,after a5  , 10d
+    section 成品展示
+    1:a7,after a6  , 1d
+```
+
 ---
 ### PERT/CPM圖
 
