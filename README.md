@@ -33,9 +33,9 @@ gantt
     section 前端開發
     25:a2,after a1  , 25d
     section 資料庫建立
-    20:a3,after a2  , 20d
+    20:a3,after a1  , 20d
     section 後端開發
-    30:a4,after a3  , 30d 
+    30:a4,after a1  , 30d 
     section 系統測試與整合
     5:a5,after a4  , 5d
     section 系統修改
