@@ -97,6 +97,7 @@ digraph {
 ---
 ### 功能分解圖(functional decomposition diagram, FDD)
 
+![image](https://user-images.githubusercontent.com/113968695/197147049-73513a55-b4cb-40ca-9a8b-5620bf024d72.png)
 ---
 ### 需求分析的文字描述
 一個辨識車證管理系統的需求分析簡述如下：
