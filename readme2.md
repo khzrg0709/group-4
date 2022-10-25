@@ -43,7 +43,7 @@
 
 ---
 ### 使用案例圖&三個以上的使用案例說明
-![image]()
+![image](https://github.com/khzrg0709/group-4/blob/main/case1.png)
 | 使用案例名稱 | 檢查車輛是否有辦車證 |
 | --- | --- |
 | 行動者 | 檢查者 |
