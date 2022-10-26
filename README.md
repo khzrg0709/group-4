@@ -16,7 +16,7 @@
 ### 專題題目
 * 還敢不辦車證阿!(暫定，之後可以做其他延伸)
 
-* RGB Color Generator
+* RGB Color Generator(備案)
 ---
 ### 內容
 
