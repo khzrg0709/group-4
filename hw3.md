@@ -6,6 +6,8 @@
 ---
 ### 繪出系統環境圖 (DFD)
 
+![檢查車證系統DFD圖](https://user-images.githubusercontent.com/94920331/198517345-4ff69159-0711-4e93-9b0b-8024e7d97b93.png)
+
 ---
 ### 繪製DFD圖0 (須至少有三項以上的程序)
 
