@@ -44,7 +44,8 @@
 ---
 ### 使用案例圖&三個以上的使用案例說明
 
-![image](https://github.com/khzrg0709/group-4/blob/main/case1.png)
+![使用案例圖](https://user-images.githubusercontent.com/113968695/201850746-258ba738-d358-4df9-b2b0-9f1d793d6035.PNG)
+
 
 #### 第一個使用案例說明
 | 使用案例名稱 | 開罰單 |
