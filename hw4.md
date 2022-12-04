@@ -2,7 +2,7 @@
 
 繪出UML類別圖(class Diagram)
 
-![UML 類別圖](https://user-images.githubusercontent.com/94920331/200112738-615eb1b0-6823-49c3-93ae-e17f9ae1da20.png)
+![UML 類別圖](https://user-images.githubusercontent.com/94920331/205493879-f0d4ecd6-13f9-4ba4-9a87-0102ced0c429.jpeg)
 
 ---
 繪製循序圖與活動圖 (須至少有三項以上的使用案例，每個使用案例一個循序圖與活動圖)
